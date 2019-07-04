@@ -1,0 +1,10 @@
+{
+    "name": "samsung/laravel_package",
+    "authors": [
+        {
+            "name": "dimonchikua96",
+            "email": "dimonchikua96@gmail.com"
+        }
+    ],
+    "require": {}
+}

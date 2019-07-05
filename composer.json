@@ -6,5 +6,8 @@
             "email": "dimonchikua96@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "require-dev": {
+        "orchestra/testbench": "^3.5"
+    }
 }
